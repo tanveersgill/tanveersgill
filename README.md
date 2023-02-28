@@ -19,4 +19,4 @@
 	<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white">
 </p>
 
-<p align="center"><samp>I'm a student at the <b>University of Waterloo</b> majoring in <b>Computer Engineering<b></samp></p>
+<p align="center"><samp>I'm a student at the <b>University of Waterloo</b>, majoring in <b>Computer Engineering<b></samp></p>
