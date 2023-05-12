@@ -8,7 +8,7 @@
     /  .  *   /   /    `\/  *         \  `  `/  \ '` | | |    |       |  ,||. |.  ,||. ||| ,||. || ,||.   (@))  ~/(:')\~  ((@)
  
 <h3><samp>Hi there! I'm <a href="https://tanveergill.me" style="text-decoration: none">Tanveer Gill</a></samp> 👋</h3>
-<p><samp>I'm a student at the <b>University of Waterloo</b>, majoring in <b>Computer Engineering<b></samp> 💻 ⚡️</p>
+<p><samp>I'm a student at the <b>University of Waterloo</b>, majoring in <b>Computer Engineering</b></samp> 💻 ⚡️</p>
 <p style="font-size:"0.5em";"><samp>I'm interested in full-stack web development, AI/ML (particularly deep learning), and working on problems at the intersection of computing and healthcare 😄</samp></p>
 
 <p><samp>programming</samp><br>
