@@ -32,14 +32,14 @@
 	'
 	<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
 	<img src="https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white">
+	<img src="https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white">
 	'
 	<img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white">
 	<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
 	<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
 	'
-    <img src="https://img.shields.io/badge/-JWT-FF6C37?logo=jwt&logoColor=white">
-	<img src="https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white">
+    	<img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white">
 	<img src="https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white">
 	<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white">
-    <img src="https://img.shields.io/badge/-Playwright-FF6C37?logo=playwright&logoColor=white">
+    <img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white">
 </p>
