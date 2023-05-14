@@ -37,7 +37,9 @@
 	<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
 	<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
 	'
+    <img src="https://img.shields.io/badge/-JWT-FF6C37?logo=jwt&logoColor=white">
 	<img src="https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white">
 	<img src="https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white">
 	<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white">
+    <img src="https://img.shields.io/badge/-Playwright-FF6C37?logo=playwright&logoColor=white">
 </p>
